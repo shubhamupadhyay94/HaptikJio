@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="StoreTest" parallel="methods" thread-count="1" verbose="2" >
+    <listeners>
+        <!--        <listener class-name="framework.testng.MyListner"></listener>-->
+        <!--        <listener class-name="framework.testng.ReportListner"></listener>-->
+    </listeners>
+    <test name="JioAssignment">
+        <classes>
+            <class name="automation.testrunner.ParallelRun" />
+        </classes>
+    </test>
+</suite>
+
