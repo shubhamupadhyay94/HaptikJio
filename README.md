@@ -2,7 +2,7 @@
 
 This is a Java Selenium TestNG Maven Cucumber /BDD hybrid automation framework.
 
-You just need to clone , build  the project.
+You just need to clone and build  the maven project.
 
 You can run the project from 3 ways
 1. TestRunner
